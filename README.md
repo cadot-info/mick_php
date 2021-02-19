@@ -1,14 +1,12 @@
-# installation de symfony sur l'ordi (à faire une fois)
-wget https://get.symfony.com/cli/installer -O - | bash
+# Docker lamp
+- php 7.4 with many plugs
+- sqlite3
+- mongodb ready
+- nano
+- git
+- curl
+- wget
+- nodejs
+- npm
+- yarn
 
-# installatio nde symfony dans un répertoire
- symfony new my_project_name --full
-ou  symfony new my_project_name 
-
-# lancer le docker
-sh run.sh
-bash.sh
-
-# lancer symfony
-sh restart.sh
-# mick_php
